@@ -1,10 +1,27 @@
--  Hi, I’m @llsabrina
--  I'm interested in recording my evolution in systems programming.
--  I am currently learning Systems Analysis and Development.
--  I'm looking to collaborate with good quality programs that are easy for the user to understand.
--  How to reach me:https://www.instagram.com/thdbibis
--  Pronouns: she/her
-<!---
-llsabrina/llsabrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Olá, eu sou a Sabrina!
+
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+💻 Interessada em **programação de sistemas**, desenvolvimento backend e boas práticas de código.  
+🚀 Busco evoluir constantemente e contribuir com projetos que ofereçam **qualidade, clareza e boa experiência ao usuário**.
+
+---
+
+🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, Java, JavaScript  
+- **Banco de Dados:** MySQL, SQLite  
+- **Versionamento:** Git & GitHub  
+- **Outros interesses:** APIs, Engenharia de Software, Testes e Documentação
+
+---
+
+📈 Objetivo
+Registrar minha evolução na área de tecnologia e compartilhar projetos desenvolvidos durante minha trajetória acadêmica e profissional.
+
+---
+
+📫 Contato
+[![Instagram](https://img.shields.io/badge/Instagram-%40thdbibis-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thdbibis)
+
+---
+
+> 💡 *"Aprender é um processo contínuo — cada linha de código é um passo em direção a algo maior."*
