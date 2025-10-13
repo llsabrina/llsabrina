@@ -6,7 +6,7 @@
 
 ---
 
-🛠️ Tecnologias e Ferramentas
+ Tecnologias e Ferramentas
 - **Linguagens:** Python, Java, JavaScript  
 - **Banco de Dados:** MySQL, SQLite  
 - **Versionamento:** Git & GitHub  
@@ -14,14 +14,13 @@
 
 ---
 
-📈 Objetivo
+** Objetivo
 Registrar minha evolução na área de tecnologia e compartilhar projetos desenvolvidos durante minha trajetória acadêmica e profissional.
 
 ---
 
-📫 Contato
+ Contato
 [![Instagram](https://img.shields.io/badge/Instagram-%40thdbibis-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thdbibis)
 
 ---
 
-> 💡 *"Aprender é um processo contínuo — cada linha de código é um passo em direção a algo maior."*
