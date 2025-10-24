@@ -19,8 +19,3 @@ Registrar minha evolução na área de tecnologia e compartilhar projetos desenv
 
 ---
 
- Contato
-[![Instagram](https://img.shields.io/badge/Instagram-%40thdbibis-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thdbibis)
-
----
-
