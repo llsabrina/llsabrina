@@ -15,7 +15,7 @@ de preferência sem bugs, mas a gente vai no que dá.
 - 🎯 Foco atual: Engenharia de Dados e Python
 - 📚 Aprendendo: Pandas, SQL avançado e boas práticas de ETL
 
-## Stack
+## Habilidades
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
