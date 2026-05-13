@@ -1,7 +1,3 @@
-<div align="center">
-
-![Sabrina GitHub stats](https://github-readme-stats.vercel.app/api?username=IIsabrina&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIsabrina&theme=midnight-purple)
 
 </div>
 
@@ -41,4 +37,7 @@ de preferência sem bugs, mas a gente vai no que dá.
   <a href="https://www.linkedin.com/in/sabrina-santos-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/thisisnot_sabrina" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </div>
